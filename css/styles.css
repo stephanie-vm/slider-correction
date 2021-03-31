@@ -5,9 +5,9 @@
   margin: 0 auto;
   margin-bottom: 1rem;
 }
-/* .slider__cards {
+.slider__cards {
   display: none;
-} */
+}
 
 .slider__images {
   margin-left: 25%;
@@ -113,4 +113,8 @@ button:focus {
   .slider__images {
     width: 50%;
   }
+}
+/*Asiganada por js*/
+js-visble {
+  display: block;
 }
